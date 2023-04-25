@@ -1,3 +1,4 @@
+# STAT4984_FinalProject
 dataset 
 - original data
 - contains 35 directories, one for each breed of snake in the dataset, with images of snakes
@@ -9,4 +10,4 @@ snake\_train\_test
 STAT4984\_SplitData.ipynb
 - used to split "dataset" into "snake\_train\_test"
 
-# STAT4984_FinalProject
+
