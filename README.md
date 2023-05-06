@@ -10,4 +10,8 @@ snake\_train\_test
 STAT4984\_SplitData.ipynb
 - used to split "snake\_data\_original" into "snake\_train\_test"
 
+STAT4984\_FinalProject-10epochs.ipynb
+- build, train, and test two ResNet 18 models 
+- trains over 10 epochs
+- produces confusion matrices for testing accuracy results
 
